@@ -6,3 +6,5 @@ Tech Stack:  <br />
 Frontend: React, Redux, Materialize  <br /> 
 Backend: Node.js, Express, PostgreSQL, Sequelize, Passport, Google OAuth  <br /> 
 Hosted on Heroku at https://plantr123.herokuapp.com/  <br /> 
+
+Team: Kathleen Tran, Calandra Stavroudis, Alisa S, Jessica Lee
